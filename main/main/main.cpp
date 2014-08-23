@@ -2,6 +2,9 @@
 #include <iostream>
 using namespace std;
 
+#include "lib1.h"
+
+
 void func1()
 {
 	cout << "func1" << endl;
