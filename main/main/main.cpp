@@ -17,6 +17,11 @@ void func3()
 	cout << "func3" << endl;
 }
 
+void func4()
+{
+	cout << "func4" << endl;
+}
+
 void main()
 {
 
@@ -25,4 +30,5 @@ void main()
 	func1();
 	func2();
 	func3();
+	func4();
 }
